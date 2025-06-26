@@ -1,5 +1,5 @@
 #Fusion Crave
-The live link for vercel is here http://localhost:3000/
+The live link for vercel is here https://fusioncrave.vercel.app/
 
 features:
 *running express server  
